@@ -1,0 +1,23 @@
+﻿  demo.cpp
+e:\proj\demo\includes\learnopengl\shader_m.h(56): warning C4101: “e”: 未引用的局部变量
+e:\proj\demo\demo\demo.cpp(194): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(229): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(230): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(237): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(238): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(245): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(246): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(253): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(254): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(262): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(263): warning C4305: “参数”: 从“double”到“float”截断
+e:\proj\demo\demo\demo.cpp(372): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(373): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(377): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(378): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(381): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\proj\demo\demo\demo.cpp(390): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  demo.vcxproj -> E:\proj\demo\Debug\demo.exe
+  demo.vcxproj -> E:\proj\demo\Debug\demo.pdb (Partial PDB)
